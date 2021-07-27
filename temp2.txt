@@ -1,0 +1,1 @@
+.slider-active button.slick-arrow{position:absolute;left:80px;bottom:0;left:0;background:none;border:0;padding:0;z-index:2;opacity:1;visibility:visible;height:60px;width:60px;cursor:pointer;background:#fff}.slider-active button.slick-arrow i{font-size:20px;line-height:60px;color:#000}.slider-active button.slick-next{left:63px}.clients-area .single-offers{padding-left:60px}
